@@ -36,7 +36,7 @@ body{
     animation: hey 5s 1;
 }
 
-/* @keyframes hey{
+@keyframes hey{
     0%{
         margin-left: 0px;
     }
@@ -44,7 +44,7 @@ body{
         margin-left: 50px;
     }
 
-} */
+}
 .dil{
     font-size: 50px;
     font-family: myfont4;
@@ -53,7 +53,7 @@ body{
     animation: dil 5s 1;
 }
 
-/* @keyframes dil{
+@keyframes dil{
     0%{
         margin-left: 0px;
     }
@@ -61,7 +61,7 @@ body{
         margin-left: 50px;
     }
 
-} */
+}
 .dilna{
     font-size: 105px;
     font-family: myfont4;
@@ -70,7 +70,7 @@ body{
     animation: dilna 5s 1;
 }
 
-/* @keyframes dilna{
+@keyframes dilna{
     0%{
         margin-left: 0px;
     }
@@ -78,7 +78,7 @@ body{
         margin-left: 50px;
     }
 
-} */
+}
 .contant{
     /* background-color: rgb(236, 216, 246); */
     margin-top: 80px;
@@ -373,6 +373,9 @@ font-family: myfont4;
     }
     .dilna{
         font-size: 50px;
+    }
+     .meh{
+        display:none;
     }
     .about-me{
         font-size: 40px;
