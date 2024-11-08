@@ -113,6 +113,16 @@ body{
     font-family: myfont4;
     color: #3a629a;
     margin-left: 30px;
+    animation: about-me 5s 1;
+}
+@keyframes about-me{
+    0%{
+        margin-left: 0px;
+    }
+    50%{
+        margin-left: 50px;
+    }
+
 }
 
 .aboutme{
