@@ -378,7 +378,7 @@ font-family: myfont4;
         display:none;
     }
     #about-me{
-        font-size: 38px;
+        font-size: 40px;
     }
     .aboutme{
         font-size: 18px;
@@ -424,6 +424,7 @@ font-family: myfont4;
     }
     .line1{
         width: 300px;
+        text-align:center;
     }
     .images{
         text-align:center;
