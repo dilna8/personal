@@ -378,7 +378,7 @@ font-family: myfont4;
         display:none;
     }
     #about-me{
-        font-size: 90px;
+        font-size: 35px;
     }
     .aboutme{
         font-size: 18px;
@@ -413,7 +413,7 @@ font-family: myfont4;
         border-radius: 5px;
     }
     .contact-head{
-        font-size: 40px;
+        font-size: 35px;
     }
     .form-div{
         display: block;
@@ -424,7 +424,6 @@ font-family: myfont4;
     }
     .line1{
         width: 300px;
-        left:10px;
     }
     .images{
         text-align:center;
